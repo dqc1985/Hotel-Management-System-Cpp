@@ -27,3 +27,10 @@ This project is a Hotel Management System developed in C++ for my Week 5 Make-Up
 ```bash
 g++ hotel_management.cpp -o hotel
 ./hotel
+---
+
+## 📌 Upcoming Features (Planned for Unit 6 and 7):
+- Cancel a booking
+- Save and load data using files
+- Search bookings by name
+
